@@ -1,0 +1,6 @@
+{
+    "require": {
+        "facebook/graph-sdk": "^5.1",
+        "unsplash/unsplash": "^3.2"
+    }
+}
